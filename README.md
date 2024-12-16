@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mariia Orlova, Data analyst.
+## Hi there 👋, I'm Mariia Orlova, Data analyst.
 
 - 🔭 I’m currently looking for a project.
 - ❤️ I like to learn new things, there are endless opportunities in analytics and IT for this
