@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Mariia Orlova, Data analyst.
+
+## 🛠️ Technical Stack:
+
+## Connect with me:
+
+![tg](https://t.me/mariiaor)
 
 <!--
 **MariiaOrlova2023/MariiaOrlova2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
